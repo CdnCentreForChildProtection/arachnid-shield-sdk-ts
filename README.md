@@ -169,6 +169,6 @@ if (status === 'err') {
 }
 ```
 
-## Contact
+## Contributing
 
 We don't currently accept contributions but feel free to create an issue if you believe something is broken and needs to be fixed.
