@@ -4,7 +4,7 @@
   "description": "The Arachnid Shield SDK for NodeJS that offers scanning media for known CSAM and other harmful or abusive material for children.",
   "main": "dist/index.js",
   "readme": "./README.md",
-  "homepage": "https://gitlab/arachnid/arachnid-shield-typescript-sdk",
+  "homepage": "https://github.com/CdnCentreForChildProtection/arachnid-shield-typescript-sdk",
   "scripts": {
     "test": "./node_modules/.bin/vitest -c vite.config.ts tests",
     "compile": "./node_modules/.bin/tsc --emitDeclarationOnly --outDir dist",
@@ -13,9 +13,10 @@
     "format": "./node_modules/.bin/prettier --write \"src/**/*.ts\"",
     "lint": "./node_modules/.bin/tslint -p tsconfig.json"
   },
+  "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://gitlab/arachnid/arachnid-shield-typescript-sdk"
+    "url": "https://github.com/CdnCentreForChildProtection/arachnid-shield-typescript-sdk"
   },
   "keywords": [
     "arachnid-shield-sdk"
